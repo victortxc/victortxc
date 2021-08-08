@@ -1,6 +1,6 @@
 ### Hi there 👋 I`m Victor Medeiros
 
-I`m a brazilian developer who loves to solve people's problems through technology
+I`m a brazilian developer who loves to solve problems through technology
 
 🔥 Ignite Student @rocketseat
 
