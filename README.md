@@ -6,7 +6,7 @@ I`m a brazilian developer who loves to solve problems through technology
 
 👨‍🎓Production Engineering student @UFRN
 
-🐂 I’m currently working on Valeu App - https://valeuapp.com.br/sobre
+🐂 I’m currently working on Valeu App using Django Rest Framework and React Js - https://valeuapp.com.br/sobre
 
 🌱 I’m currently learning Ruby On Rails, Django, React JS and React Native
 
