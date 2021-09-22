@@ -8,7 +8,7 @@ I`m a brazilian developer who loves to solve problems through technology
 
 🐂 I’m currently working on Valeu App using Django Rest Framework and React Js - https://valeuapp.com.br/sobre
 
-🌱 I’m currently learning Ruby On Rails, Django, React Js, Next Js and React Native
+🌱 I’m currently learning Ruby On Rails, Node Js and React Native
 
  <div>
   <a href="https://github.com/victortxc">
