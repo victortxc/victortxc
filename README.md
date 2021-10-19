@@ -8,7 +8,7 @@ I`m a brazilian developer who loves to solve problems through technology
 
 🐂 I’m currently working on Valeu App using Django Rest Framework and React Js - https://valeuapp.com.br/sobre
 
-🌱 I’m currently learning Ruby On Rails, Node Js and React Native
+🌱 I’m currently learning Node Js and React Native
 
  <div>
   <a href="https://github.com/victortxc">
@@ -25,6 +25,7 @@ I`m a brazilian developer who loves to solve problems through technology
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="NodeJs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 
 </div>
   
