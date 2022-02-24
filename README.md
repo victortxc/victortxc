@@ -8,7 +8,7 @@ Experienced in applications on AWS, integration with third-party API's and agile
 
 👨‍🎓Production Engineering student @UFRN
 
-🐂 I’m currently working on Valeu App using Django Rest Framework and React Js - https://valeuapp.com.br/sobre
+🐂 I’m currently working on Valeu App using Django Rest Framework, React Js and React Native - https://valeuapp.com.br/sobre
 
 🌱 I’m currently learning React Native
 
