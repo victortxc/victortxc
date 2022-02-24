@@ -1,6 +1,8 @@
 ### Hi there! I`m Victor Medeiros 😃
 
-I`m a brazilian developer who loves to solve problems through technology
+I'm a Full-stack developer focused on the back-end using Django | Django Rest Framework | Celery framework. 
+I also have front-end and mobile experience, working with Typescript, ReactJS, and React Native to create dynamic and real-time app interfaces.
+Experienced in applications on AWS, integration with third-party API's and agile methodologies.
 
 🔥 Ignite Student @rocketseat
 
