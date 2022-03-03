@@ -10,13 +10,7 @@ Experienced in applications on AWS, integration with third-party API's and agile
 
 🐂 I’m currently working on Valeu App using Django Rest Framework, React Js and React Native - https://valeuapp.com.br/sobre
 
-🌱 I’m currently learning React Native
-
- <div>
-  <a href="https://github.com/victortxc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victortxc&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortxc&layout=compact&langs_count=7"/>
-</div>
+🌱 I’m currently learning Node Js
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
