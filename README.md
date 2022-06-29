@@ -20,7 +20,7 @@ Experienced in applications on AWS, integration with third-party API's and agile
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-   <img align="center" alt="Node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
 
 </div>
   
