@@ -1,18 +1,16 @@
 ### Hi there! I`m Victor Medeiros 😃
 
-I'm a Full-stack developer focused on the back-end using Django | Django Rest Framework | Celery framework. 
+I'm a Full-stack developer focused on the back-end using Django | Django Rest Framework | Ruby on Rails. 
 I also have front-end and mobile experience, working with Typescript, ReactJS, and React Native to create dynamic and real-time app interfaces.
 Experienced in applications on AWS, integration with third-party API's and agile methodologies.
 
-🔥 Ignite Student @rocketseat
+Production Engineering - UFRN
+Internet Systems - FIAP
 
-👨‍🎓Production Engineering student @UFRN
-
-🐂 I’m currently working on Valeu App using Django Rest Framework, React Js and React Native - https://valeuapp.com.br/sobre
+I’m currently working on Ferreri using Ruby on Rails - https://ferreri.co/
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
@@ -20,6 +18,7 @@ Experienced in applications on AWS, integration with third-party API's and agile
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
    
 
 </div>
