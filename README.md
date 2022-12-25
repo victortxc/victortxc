@@ -6,7 +6,7 @@ I also have front-end and mobile experience, working with Typescript, ReactJS, a
 
 Experience with Developing and deploying applications on AWS, integration with third-party API's and agile methodologies.
 
-I`m enthusiastic about end-to-end development and what drives me is to create products that improve people`s lives.
+I'm enthusiastic about end-to-end development and what drives me is to create products that improve people's lives.
 
 Production Engineering - UFRN
 Internet Systems - FIAP
