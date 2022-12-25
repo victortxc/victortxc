@@ -1,8 +1,12 @@
 ### Hi there! I`m Victor Medeiros 😃
 
-I'm a Full-stack developer focused on the back-end using Django | Django Rest Framework | Ruby on Rails. 
+I'm a Full cycle developer focused on the back-end using Django, Django Rest Framework, and Ruby on Rails.
+
 I also have front-end and mobile experience, working with Typescript, ReactJS, and React Native to create dynamic and real-time app interfaces.
-Experienced in applications on AWS, integration with third-party API's and agile methodologies.
+
+Experience with Developing and deploying applications on AWS, integration with third-party API's and agile methodologies.
+
+I`m enthusiastic about end-to-end development and what drives me is to create products that improve people`s lives.
 
 Production Engineering - UFRN
 Internet Systems - FIAP
